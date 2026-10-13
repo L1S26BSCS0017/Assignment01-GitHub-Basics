@@ -1,3 +1,6 @@
+
+// M. Jazil
+//L1S26BSCS0017
 #include <iostream>
 using namespace std;
 
